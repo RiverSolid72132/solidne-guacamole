@@ -14,7 +14,7 @@
 
 # 1. *imie_pracownika()*
 
-Funkcja służy do pobierania imienia pracownika od użytkownika. Po wywołaniu funkcji, użytkownik zostanie poproszony o wprowadzenie imienia, a następnie zostanie ono zwrócone.
+Funkcja służy do pobierania imienia pracownika od użytkownika. Po wywołaniu funkcji, użytkownik zostanie poproszony o wprowadzenie imienia, a następnie zostanie ono zwrócone
 
 ```C++
 string imie_pracownika(string imie)
