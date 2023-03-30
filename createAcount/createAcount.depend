@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680204373 source:c:\users\dom\documents\github\solidne-guacamole\createacount\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
